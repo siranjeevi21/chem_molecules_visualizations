@@ -1,2 +1,2 @@
-conda-forge::rdkit==2021.03.1
+conda-forge::rdkit==2020.09.1.0
 

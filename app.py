@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 from rdkit import Chem
 from rdkit.Chem.Descriptors import ExactMolWt, MolLogP, NumHDonors, NumHAcceptors
 
-st.title("Filter FDA Approved Drugs by Lipinski's Rule-of-Five with Streamlit")
+st.title("Filter FDA Approved Drugs by Lipinski's Rule-of-Five")
 
 
 @st.cache(allow_output_mutation=True)

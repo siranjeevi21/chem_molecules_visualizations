@@ -4,4 +4,4 @@ streamlit==0.81.1
 plotly==4.14.1
 Pillow==8.0.1
 mols2grid==0.0.6
-rdkit
+rdkit==py38hac5d304_0

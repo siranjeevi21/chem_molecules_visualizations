@@ -1,1 +1,2 @@
-rdkit
+conda-forge::rdkit
+conda-forge::pygpu

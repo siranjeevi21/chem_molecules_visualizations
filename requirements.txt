@@ -2,4 +2,4 @@ pandas==1.1.4
 matplotlib==3.3.3
 streamlit==0.81.1
 mols2grid
-
+rdkit-pypi

@@ -1,5 +1,2 @@
-conda-forge::rdkit
-conda-forge::pygpu
-conda-forge::pandas
-conda-forge::streamlit
-conda-forge::mols2grid
+conda-forge::rdkit==2021.03.1
+

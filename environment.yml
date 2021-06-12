@@ -1,2 +1,5 @@
 conda-forge::rdkit
 conda-forge::pygpu
+conda-forge::pandas
+conda-forge::streamlit
+conda-forge::mols2grid
